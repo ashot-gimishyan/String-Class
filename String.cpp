@@ -1,3 +1,9 @@
+/*
+ Ashot Gimishyan
+ October, 2021
+ MIPT
+*/
+
 #include "String.hpp"
 
 // Конструктор по умолчанию - создает пустую строку, никакой памяти не
