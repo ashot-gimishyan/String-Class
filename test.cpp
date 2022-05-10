@@ -1,8 +1,3 @@
-/**
- * @file main.cpp
- * @author Ganddalf
- * @date 05.10.2021
- */
 #include <gtest/gtest.h>
 
 #include "String.cpp"
