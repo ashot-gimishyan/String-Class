@@ -1,3 +1,0 @@
-/home/ashot/Карьера/mipt/c++/string/CMakeFiles/rebuild_cache.dir
-/home/ashot/Карьера/mipt/c++/string/CMakeFiles/edit_cache.dir
-/home/ashot/Карьера/mipt/c++/string/CMakeFiles/runTests.dir
