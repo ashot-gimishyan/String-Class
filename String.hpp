@@ -1,3 +1,9 @@
+/*
+ Ashot Gimishyan
+ October, 2021
+ MIPT
+*/
+
 #include <cstdint>
 #include <cstring>
 #include <iostream>
